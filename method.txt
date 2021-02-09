@@ -1,0 +1,17 @@
+(1) Go GitHub
+
+(2) Select The file that you want in github
+
+(3) Create New Gist in github
+
+(4) Give the same file name with type here that you created in github "filename including extension" in gist
+
+(5) Then paste the same code in large space in gist
+
+(6) nextly Create secret gist 
+
+(7) now you can see the link next to Embed button (<script src="https://gist.github.com/pasindugunasekara/ed2752be816aa54cc0659d4cf3afd34f.js"></script>) 
+
+(8) Copy the code, now you can use it in the gohtml file or html file what you want to use 
+ 
+
